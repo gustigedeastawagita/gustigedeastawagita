@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm NinfixeStudio 👋</h1>
+<h1 align="center">Hi there, I'm Gede 👋</h1>
 
 <p align="center">
   Web Developer & Game Developer 🎮 | Turning ideas into code
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NinfixeStudio&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gustigedeastawagita&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 </p>-->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NinfixeStudio&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustigedeastawagita&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/NinfixeStudio" target="_blank">
+  <a href="https://github.com/gustigedeastawagita" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <!-- Add more links below if you have them, for example: -->
